@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT student interested in Embedded Systems and IoT.
-- ⚡ Focused on embedded programming with **C++** and **ESP32**.
-- 🔧 Have experience working on microcontroller projects.
-- 🌐 Interested in connected devices, sensors, and automation.
-- 📚 Continuously improving my firmware development and debugging skills.
-- 🚀 Learning by building practical hardware and software projects.
+- IT student interested in Embedded Systems and IoT.
+- Focused on embedded programming with **C++** and **ESP32**.
+- Have experience working on microcontroller projects.
+- Interested in connected devices, sensors, and automation.
+- Continuously improving my firmware development and debugging skills.
+- Learning by building practical hardware and software projects.
 
 ---
 
