@@ -116,20 +116,14 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/TranTienDatUwU">
-    <img src="https://img.shields.io/badge/GitHub-TranTienDatUwU-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Build it, test it, understand it — one board at a time."</i>
-</p>
-
-<p align="left">
   <a href="https://github.com/TranTienDatUwU" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-TranTienDatUwU-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/tiến-đạt-trần-684901372/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <i>"Build it, test it, understand it — one board at a time. Life a live you will remember"</i>
 </p>
