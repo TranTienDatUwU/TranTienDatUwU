@@ -50,30 +50,6 @@
 
 ---
 
-## 🔬 Embedded Projects
-
-<!-- Replace these examples with your actual projects and repository links. -->
-
-### 🌡️ ESP32 Sensor Monitoring System
-
-- Collect data from sensors using a microcontroller.
-- Display or transmit measurements for monitoring.
-- **Technologies:** ESP32, C++, sensor modules.
-
-### 💡 ESP32 Smart Control System
-
-- Control outputs based on user input or sensor readings.
-- Explore connected-device and automation concepts.
-- **Technologies:** ESP32, C++, GPIO.
-
-### 🔌 Microcontroller Experiments
-
-- Practice interfacing with electronic components.
-- Explore input/output operations and communication between modules.
-- **Technologies:** C++, microcontrollers, electronic components.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
