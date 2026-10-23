@@ -33,7 +33,7 @@
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&perline=6" alt="Programming languages and tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,idea,java&perline=6" alt="Programming languages and tools" />
 </p>
 
 ### Embedded Systems & IoT
