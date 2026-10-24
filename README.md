@@ -67,16 +67,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TranTienDatUwU&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</p>
-
 ---
 
 ## 🎯 Current Focus
