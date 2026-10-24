@@ -103,3 +103,18 @@
 <p align="center">
   <i>"Build it, test it, understand it — one board at a time. Life a live you will remember"</i>
 </p>
+
+Contribution Activity
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TranTienDatUwU/TranTienDatUwU/output/github-snake-dark.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/TranTienDatUwU/TranTienDatUwU/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
