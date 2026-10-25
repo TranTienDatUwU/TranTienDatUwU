@@ -67,18 +67,6 @@
 
 ---
 
----
-
-## 🎯 Current Focus
-
-- Improving C++ programming for microcontrollers.
-- Building and documenting ESP32-based projects.
-- Exploring sensor interfacing and device communication.
-- Practicing debugging and writing maintainable firmware.
-- Developing practical Embedded Systems and IoT applications.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
